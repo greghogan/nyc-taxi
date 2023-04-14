@@ -1,0 +1,7 @@
+venv/
+fhv_tripdata_*
+fhvhv_tripdata_*
+green_tripdata_*
+taxi_zones.*
+taxi+_zone_lookup.csv
+yellow_tripdata_*
